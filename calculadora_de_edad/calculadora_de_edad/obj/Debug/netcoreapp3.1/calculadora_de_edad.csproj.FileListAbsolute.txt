@@ -1,0 +1,11 @@
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\bin\Debug\netcoreapp3.1\calculadora_de_edad.exe
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\bin\Debug\netcoreapp3.1\calculadora_de_edad.deps.json
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\bin\Debug\netcoreapp3.1\calculadora_de_edad.runtimeconfig.json
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\bin\Debug\netcoreapp3.1\calculadora_de_edad.runtimeconfig.dev.json
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\bin\Debug\netcoreapp3.1\calculadora_de_edad.dll
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\bin\Debug\netcoreapp3.1\calculadora_de_edad.pdb
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\obj\Debug\netcoreapp3.1\calculadora_de_edad.csprojAssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\obj\Debug\netcoreapp3.1\calculadora_de_edad.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\obj\Debug\netcoreapp3.1\calculadora_de_edad.AssemblyInfo.cs
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\obj\Debug\netcoreapp3.1\calculadora_de_edad.dll
+C:\Users\SISTEMAS\source\repos\calculadora_de_edad\calculadora_de_edad\obj\Debug\netcoreapp3.1\calculadora_de_edad.pdb

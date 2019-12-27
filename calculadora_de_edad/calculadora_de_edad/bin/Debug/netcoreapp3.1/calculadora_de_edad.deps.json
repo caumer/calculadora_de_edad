@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "calculadora_de_edad/1.0.0": {
+        "runtime": {
+          "calculadora_de_edad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculadora_de_edad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
